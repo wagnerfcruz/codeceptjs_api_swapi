@@ -9,11 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "codeceptjs": "^2.6.5"
+    "codeceptjs": "^2.6.5",
+    "webdriverio": "^6.1.17"
   },
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0"
+  },
   "description": ""
 }
